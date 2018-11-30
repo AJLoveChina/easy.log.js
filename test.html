@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Test log</title>
+</head>
+<body>
+<script src="./dist/easy.log.js"></script>
+
+
+<script>
+    let log1 = window.LOG("log1");
+    log1("log");
+
+
+    let log2 = window.LOG("log2");
+    log2.toggleStack(false);
+    log2.toggleLog(true);
+
+    log2.log("log");
+    log2.log("warn");
+</script>
+</body>
+</html>
