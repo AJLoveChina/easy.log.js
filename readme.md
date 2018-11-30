@@ -1,5 +1,8 @@
+<h1 align="center"><img src='easy.log.js.gif'/></h1>
+
 ### easy.log.js
 A good log module for browser.More convenient and elegant.
+
 
 #### Feature
 * print every log with a group name, then you can filter logs in `console tab`
