@@ -3,6 +3,7 @@
 ### easy.log.js
 A good log module for browser.More convenient and elegant.
 
+<p style='font-size:12px;color:#aaa;'>Tip: easy.log.js also support wechat mini program, the usage is the same.</p>
 
 #### Feature
 * print every log with a group name, then you can filter logs in `console tab`
